@@ -1,0 +1,4 @@
+class 20151116135026AddActivationToUsers < ActiveRecord::Migration
+  def change
+  end
+end
